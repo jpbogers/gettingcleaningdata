@@ -42,7 +42,7 @@ assumed to have only low frequency components, therefore a filter with 0.3 Hz
 cutoff frequency was used. From each window, a vector of features was obtained
 by calculating variables from the time and frequency domain. 
 
-The raw data of all the experiments on 30 subjects, performing 6 different activities is provided. The experimental data is arbitrarily separated into two files (train and test). After the current program is run, the following average data of the mean and the standard deviation of all the data, grouped by subject and activity, is calculated.
+The raw data of all the experiments on 30 subjects, performing 6 different activities is provided. The experimental data is arbitrarily separated into two files (train and test). After the current program is run, the  average data of the mean and the standard deviation of all the data, grouped by subject and activity, is calculated.
 
 ###For each subject and each activity the following average data of the mean and the standard deviation is calculated:
 
